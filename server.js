@@ -378,7 +378,8 @@ app.get("/create",(req,res) => {
         token:token,
 
         link:
-    `https://cathedral-curriculum-column-indicator.trycloudflare.com/share/${token}`
+            `https://location-website.onrender.com/share/${token}`
+    
 
     });
 
